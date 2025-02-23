@@ -777,7 +777,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6120193165ffefe40846c90ebc97142e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playButton: {fileID: 1605154619}
+  playButtonTransform: {fileID: 1605154619}
+  playButton: {fileID: 1605154623}
 --- !u!114 &1605154621
 MonoBehaviour:
   m_ObjectHideFlags: 0
