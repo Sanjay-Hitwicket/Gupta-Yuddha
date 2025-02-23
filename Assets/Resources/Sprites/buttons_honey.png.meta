@@ -1,0 +1,1096 @@
+fileFormatVersion: 2
+guid: dbb2e0322c87af2499e3d1fb68cf7715
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: buttons_honey_0
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 3776
+        width: 394
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a3fe95164a46f49b98771d8f1bece9
+      internalID: 585744543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_1
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 3762
+        width: 421
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b93e943cd81cdf46ae46faf449b1a66
+      internalID: 1317503324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_2
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 3762
+        width: 423
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ddb8f182ebec047a07996cfda508e5
+      internalID: 778314117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_3
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 3762
+        width: 420
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709d05fb570651f44b3ba7837d7e61e2
+      internalID: 2082330925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_4
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 3762
+        width: 422
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0135a6d63dc0d4b96fa4fa7130f7a8
+      internalID: 85091641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_5
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 3749
+        width: 422
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50233529eb6431d4db67ae0e560cb94c
+      internalID: 748338579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_6
+      rect:
+        serializedVersion: 2
+        x: 3209
+        y: 3716
+        width: 424
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e825246cb329b74c844cd83e829c1b0
+      internalID: 1177283348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_7
+      rect:
+        serializedVersion: 2
+        x: 3746
+        y: 3730
+        width: 424
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20e536d4a79e314b935371609cdc501
+      internalID: 873996026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_8
+      rect:
+        serializedVersion: 2
+        x: 4255
+        y: 3703
+        width: 423
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7214321c1e34bf4bb30d831175fbd69
+      internalID: -1127847420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_9
+      rect:
+        serializedVersion: 2
+        x: 4780
+        y: 3676
+        width: 435
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f8dd082b2d0e14d95a49d3c147aa48
+      internalID: 2123616787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1891
+        width: 1339
+        height: 1715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1040d08949262cb47834dae529138b02
+      internalID: 371237320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_11
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 3353
+        width: 858
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3616a2cc1ac061349ab6936f1285c879
+      internalID: -1424981702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_12
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 3351
+        width: 857
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca156dd900ec544c915ecaafdc68793
+      internalID: 1089697595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_13
+      rect:
+        serializedVersion: 2
+        x: 3283
+        y: 3249
+        width: 423
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94efb9d0b9a0b00428fcb53d502fb5c8
+      internalID: -1161886399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_14
+      rect:
+        serializedVersion: 2
+        x: 3793
+        y: 3210
+        width: 424
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ca91292aae8294e81ebab18417996b
+      internalID: -621439000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_15
+      rect:
+        serializedVersion: 2
+        x: 4295
+        y: 3262
+        width: 1044
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e791edc50e237e49a2542069538cfd8
+      internalID: 2002899150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_16
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 2921
+        width: 857
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e4dd5bcf449a842a8e6ad86d506178
+      internalID: -793492440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_17
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 2936
+        width: 857
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7c0d654dac9164f88a9eae61dde8a8
+      internalID: -28511223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_18
+      rect:
+        serializedVersion: 2
+        x: 3617
+        y: 2436
+        width: 1233
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8cafd43dbf4ae4881c5d6e7b36e3d1
+      internalID: 1564080951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_19
+      rect:
+        serializedVersion: 2
+        x: 4949
+        y: 2803
+        width: 279
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66bc0f3c33c77c418f1ee696ec9541f
+      internalID: 1827519915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_20
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 2470
+        width: 941
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e37f27323fbea24d97465c11c0747e2
+      internalID: 265725718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_21
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 2472
+        width: 487
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a95dc74058dc764ebf2f30f08c4c631
+      internalID: 1665637811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_22
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 2496
+        width: 484
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd55cb7aecd7094185440acf0a56c75
+      internalID: 1028518157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_23
+      rect:
+        serializedVersion: 2
+        x: 4936
+        y: 2425
+        width: 310
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b5d93db179fac47a9903f2585269dc
+      internalID: 104505137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_24
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1883
+        width: 1593
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05453209cab367a4e854f9da32c1b349
+      internalID: -686726599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_25
+      rect:
+        serializedVersion: 2
+        x: 3377
+        y: 1888
+        width: 1390
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f662823def6d0674db409d2174f72bfe
+      internalID: -1514357901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_26
+      rect:
+        serializedVersion: 2
+        x: 4944
+        y: 1985
+        width: 279
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5920e1df85b70124aba2f50c31d8c083
+      internalID: 191487952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_27
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1641
+        width: 1421
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5322f6bab299134e8b14e2ff2968034
+      internalID: -2026718032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_28
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 523
+        width: 1003
+        height: 1256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb586455ea67ef4cb8864f3eb47e09f
+      internalID: -978914463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_29
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 1226
+        width: 1389
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55efe0bccc8e463428fdc6e502ad2ed5
+      internalID: -847792481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_30
+      rect:
+        serializedVersion: 2
+        x: 4968
+        y: 1602
+        width: 310
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24d27326ad4afd439ed327a92f87743
+      internalID: -1239093532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1412
+        width: 1421
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1559a0e46321e0544bd645cabb096a1f
+      internalID: -1011402524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_32
+      rect:
+        serializedVersion: 2
+        x: 4355
+        y: 1159
+        width: 876
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6b4265707588b4499ad5b71e45e454
+      internalID: -2139544869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_33
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 718
+        width: 1744
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861204972443c4f45952bc0535d0f475
+      internalID: -1997161736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_34
+      rect:
+        serializedVersion: 2
+        x: 3031
+        y: 619
+        width: 1379
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7633a2646c9fee46adb1650a3ce6118
+      internalID: -1952567405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_35
+      rect:
+        serializedVersion: 2
+        x: 4691
+        y: 781
+        width: 310
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f59541ccd6e8904692769259e18b521
+      internalID: 1144781484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_36
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 103
+        width: 1343
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f48a9dec2ea7b48878540cac7757db
+      internalID: 1653633655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_37
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 0
+        width: 1379
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3657b40c30feb5b42a8a22187971c05c
+      internalID: -327797623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_38
+      rect:
+        serializedVersion: 2
+        x: 3158
+        y: 12
+        width: 1379
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd93fcc5670bca8419a76377013b273f
+      internalID: -2101068617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_39
+      rect:
+        serializedVersion: 2
+        x: 4399
+        y: 444
+        width: 279
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c0933f81777bf4fb89a4bed638667a
+      internalID: 2091714197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_40
+      rect:
+        serializedVersion: 2
+        x: 5020
+        y: 444
+        width: 281
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f1355fb4bc01b4f8ce07d0fd628297
+      internalID: 463244641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons_honey_41
+      rect:
+        serializedVersion: 2
+        x: 4691
+        y: 137
+        width: 310
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07130ae7fbfab88489c9f1141939d28f
+      internalID: -376548338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b26173b740ac6324db42c7a6e9b92e8b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      buttons_honey_0: 585744543
+      buttons_honey_1: 1317503324
+      buttons_honey_10: 371237320
+      buttons_honey_11: -1424981702
+      buttons_honey_12: 1089697595
+      buttons_honey_13: -1161886399
+      buttons_honey_14: -621439000
+      buttons_honey_15: 2002899150
+      buttons_honey_16: -793492440
+      buttons_honey_17: -28511223
+      buttons_honey_18: 1564080951
+      buttons_honey_19: 1827519915
+      buttons_honey_2: 778314117
+      buttons_honey_20: 265725718
+      buttons_honey_21: 1665637811
+      buttons_honey_22: 1028518157
+      buttons_honey_23: 104505137
+      buttons_honey_24: -686726599
+      buttons_honey_25: -1514357901
+      buttons_honey_26: 191487952
+      buttons_honey_27: -2026718032
+      buttons_honey_28: -978914463
+      buttons_honey_29: -847792481
+      buttons_honey_3: 2082330925
+      buttons_honey_30: -1239093532
+      buttons_honey_31: -1011402524
+      buttons_honey_32: -2139544869
+      buttons_honey_33: -1997161736
+      buttons_honey_34: -1952567405
+      buttons_honey_35: 1144781484
+      buttons_honey_36: 1653633655
+      buttons_honey_37: -327797623
+      buttons_honey_38: -2101068617
+      buttons_honey_39: 2091714197
+      buttons_honey_4: 85091641
+      buttons_honey_40: 463244641
+      buttons_honey_41: -376548338
+      buttons_honey_5: 748338579
+      buttons_honey_6: 1177283348
+      buttons_honey_7: 873996026
+      buttons_honey_8: -1127847420
+      buttons_honey_9: 2123616787
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
